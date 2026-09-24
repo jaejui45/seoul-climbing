@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f26b21">
+<meta name="description" content="서울 클라이밍장 위치와 영업시간을 한눈에">
+<title>서울 클라이밍장</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="favicon.png" sizes="32x32">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="서울클라이밍">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="title">
+    <h1>서울 클라이밍장</h1>
+    <span class="count" id="count"></span>
+  </div>
+  <input type="search" id="q" placeholder="이름, 구, 주소 검색" autocomplete="off">
+  <div class="chips" id="chips">
+    <button class="chip" data-f="all" aria-pressed="true">전체</button>
+    <button class="chip" data-f="open" aria-pressed="false">지금 영업중</button>
+    <button class="chip" data-f="indoor" aria-pressed="false">실내</button>
+    <button class="chip" data-f="outdoor" aria-pressed="false">야외</button>
+    <button class="chip" data-f="near" aria-pressed="false">가까운 순</button>
+    <button class="chip" data-f="map" aria-pressed="true">지도</button>
+  </div>
+</header>
+<div id="map"></div>
+<main id="list"></main>
+<p class="foot" id="foot"></p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

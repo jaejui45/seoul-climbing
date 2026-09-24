@@ -1,0 +1,11 @@
+gyms_raw.json
+.DS_Store
+build/
+DerivedData/
+*.xcuserdatad
+Local.xcconfig
+
+# Xcode
+build/
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata

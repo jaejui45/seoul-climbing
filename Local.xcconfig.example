@@ -1,0 +1,13 @@
+// 실기기 설치용 개인 설정 (git에 올리지 않음)
+//
+// 1. Xcode → Settings → Accounts 에서 Apple ID를 추가한다.
+// 2. 아래 DEVELOPMENT_TEAM 에 팀 ID를 넣는다. 확인 방법:
+//      security find-identity -v -p codesigning
+//    "Apple Development: 이름 (XXXXXXXXXX)" 에서 괄호 안 10자리가 아니라,
+//    Xcode → Settings → Accounts → 팀 목록의 Team ID 를 쓴다.
+// 3. 무료 Apple ID(Personal Team)면 앱이 7일 뒤 만료되므로 재설치가 필요하다.
+
+DEVELOPMENT_TEAM =
+
+// 번들 ID는 전 세계에서 고유해야 한다. 이미 쓰이는 값이면 아래를 바꾼다.
+PRODUCT_BUNDLE_IDENTIFIER = com.jaehyeong.SeoulClimb

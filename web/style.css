@@ -1,0 +1,88 @@
+:root {
+  color-scheme: light dark;
+  --bg: #f6f6f7;
+  --card: #fff;
+  --text: #16161a;
+  --muted: #6c6c73;
+  --line: #e3e3e7;
+  --accent: #f26b21;
+  --open: #17803d;
+  --open-bg: #e6f4ea;
+  --soon: #b45309;
+  --soon-bg: #fdf1dc;
+  --shut: #b3261e;
+  --shut-bg: #fce9e7;
+  --gray: #5f6368;
+  --gray-bg: #ececed;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #121215; --card: #1c1c20; --text: #f2f2f4; --muted: #9a9aa2;
+    --line: #2c2c32; --open-bg: #14331f; --soon-bg: #35270f; --shut-bg: #3a1a17; --gray-bg: #26262b;
+    --open: #5fd18a; --soon: #f0b357; --shut: #f2857c; --gray: #a9a9b2;
+  }
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", system-ui, sans-serif;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+header {
+  position: sticky; top: 0; z-index: 500; background: var(--card);
+  border-bottom: 1px solid var(--line); padding: 10px 14px 8px;
+  padding-top: calc(10px + env(safe-area-inset-top));
+}
+.title { display: flex; align-items: baseline; gap: 8px; margin-bottom: 8px; }
+h1 { font-size: 17px; margin: 0; font-weight: 700; letter-spacing: -.2px; }
+.count { font-size: 12px; color: var(--muted); }
+input[type=search] {
+  width: 100%; padding: 9px 12px; font-size: 16px; border-radius: 10px;
+  border: 1px solid var(--line); background: var(--bg); color: var(--text);
+}
+.chips { display: flex; gap: 6px; overflow-x: auto; margin-top: 8px; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: 0 0 auto; padding: 6px 13px; border-radius: 999px; border: 1px solid var(--line);
+  background: var(--bg); color: var(--text); font-size: 13px; font-weight: 500; cursor: pointer;
+}
+.chip[aria-pressed=true] { background: var(--accent); border-color: var(--accent); color: #fff; }
+#map { height: 42vh; min-height: 220px; width: 100%; background: var(--line); }
+#map.hidden { display: none; }
+main { padding: 10px 12px 28px; }
+.gym {
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 12px 13px; margin-bottom: 8px;
+}
+.gym > summary { list-style: none; cursor: pointer; }
+.gym > summary::-webkit-details-marker { display: none; }
+.row1 { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.name { font-weight: 650; font-size: 15.5px; }
+.dist { font-size: 12px; color: var(--muted); white-space: nowrap; }
+.meta { font-size: 12.5px; color: var(--muted); margin-top: 3px; }
+.badge {
+  display: inline-block; margin-top: 7px; padding: 3px 9px; border-radius: 999px;
+  font-size: 12px; font-weight: 600;
+}
+.badge.open { color: var(--open); background: var(--open-bg); }
+.badge.soon { color: var(--soon); background: var(--soon-bg); }
+.badge.shut { color: var(--shut); background: var(--shut-bg); }
+.badge.unknown { color: var(--gray); background: var(--gray-bg); }
+.detail { margin-top: 12px; border-top: 1px solid var(--line); padding-top: 10px; }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+td { padding: 4px 0; }
+td:last-child { text-align: right; font-variant-numeric: tabular-nums; }
+tr.today { font-weight: 700; color: var(--accent); }
+td.off { color: var(--shut); }
+.addr { font-size: 13px; color: var(--muted); margin: 10px 0 8px; }
+.actions { display: flex; flex-wrap: wrap; gap: 6px; }
+.actions a {
+  flex: 1 1 auto; text-align: center; text-decoration: none; padding: 9px 10px;
+  border-radius: 9px; background: var(--bg); border: 1px solid var(--line);
+  color: var(--text); font-size: 13px; font-weight: 550;
+}
+.actions a.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.src { font-size: 11.5px; color: var(--muted); margin-top: 9px; }
+.empty, .foot { text-align: center; color: var(--muted); font-size: 12.5px; padding: 18px 10px; }
+.leaflet-popup-content { margin: 10px 12px; font: 13px/1.45 -apple-system, system-ui, sans-serif; }
+.leaflet-popup-content b { font-size: 14px; }
