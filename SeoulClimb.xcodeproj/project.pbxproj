@@ -22,7 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0B5D5BF105F0B5EDF7FFB025 /* SeoulClimb.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = SeoulClimb.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0B5D5BF105F0B5EDF7FFB025 /* SeoulClimb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeoulClimb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		334F95DA341399715577B111 /* OpenStatusBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenStatusBadge.swift; sourceTree = "<group>"; };
 		7613331DB762F6AB9E7B4EEF /* FilterBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterBar.swift; sourceTree = "<group>"; };
 		80F9B8A48CF334CBDF7740AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -147,7 +147,6 @@
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
 					E86C1FC60E6FC79AAF0B57C5 = {
-						DevelopmentTeam = "";
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -334,6 +333,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FY3CD5626Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "서울클라이밍";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "가까운 클라이밍장을 거리순으로 보여주기 위해 위치를 사용합니다.";
@@ -355,6 +355,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FY3CD5626Z;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "서울클라이밍";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "가까운 클라이밍장을 거리순으로 보여주기 위해 위치를 사용합니다.";

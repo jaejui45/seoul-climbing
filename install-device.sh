@@ -11,7 +11,15 @@ if [ -z "$TEAM" ]; then
   exit 1
 fi
 
-DEVICE=$(xcrun devicectl list devices 2>/dev/null | awk '$NF=="physical" && /connected/ {print $(NF-4); exit}')
+DEVICE=$(xcrun devicectl list devices --json-output /tmp/_devices.json >/dev/null 2>&1 && python3 -c "
+import json
+for x in json.load(open('/tmp/_devices.json'))['result']['devices']:
+    hp, cp = x.get('hardwareProperties', {}), x.get('connectionProperties', {})
+    if hp.get('reality') == 'physical' and cp.get('tunnelState') != 'disconnected':
+        print(hp['udid'])
+        break
+")
+
 if [ -z "${DEVICE:-}" ]; then
   echo "❌ 연결된 아이폰을 찾지 못했습니다. 케이블로 연결하고 '이 컴퓨터를 신뢰' 를 눌러주세요." >&2
   exit 1
