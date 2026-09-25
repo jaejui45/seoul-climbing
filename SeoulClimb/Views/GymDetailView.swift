@@ -15,11 +15,6 @@ struct GymDetailView: View {
                             .font(.caption)
                             .foregroundStyle(.secondary)
                         OpenStatusBadge(status: gym.status(at: context.date))
-                        if let rating = gym.rating, gym.ratingCount > 0 {
-                            Label(String(format: "%.1f (리뷰 %d)", rating, gym.ratingCount), systemImage: "star.fill")
-                                .font(.subheadline)
-                                .foregroundStyle(.yellow)
-                        }
                     }
                     Map(initialPosition: .region(MKCoordinateRegion(center: gym.coordinate,
                                                                     latitudinalMeters: 600, longitudinalMeters: 600))) {
@@ -34,7 +29,7 @@ struct GymDetailView: View {
 
                 Section("영업시간") {
                     if gym.hours == nil {
-                        Text("등록된 영업시간 정보가 없습니다. 방문 전 전화나 지도 앱에서 확인해 주세요.")
+                        Text("등록된 영업시간 정보가 없습니다. 아래 카카오맵에서 확인해 주세요.")
                             .foregroundStyle(.secondary)
                     } else {
                         ForEach(0..<7, id: \.self) { i in
@@ -49,6 +44,15 @@ struct GymDetailView: View {
                             }
                             .listRowBackground(i == today ? Color.orange.opacity(0.12) : nil)
                         }
+                        if let holiday = gym.holidayHours {
+                            HStack {
+                                Text("공휴일")
+                                Spacer()
+                                Text("\(holiday[0]) – \(holiday[1])")
+                                    .monospacedDigit()
+                            }
+                            .foregroundStyle(.secondary)
+                        }
                     }
                 }
 
@@ -61,10 +65,21 @@ struct GymDetailView: View {
                     } label: {
                         Label("Apple 지도로 길찾기", systemImage: "arrow.triangle.turn.up.right.diamond")
                     }
+                    if let url = gym.kakaoURL {
+                        Button { openURL(url) } label: {
+                            Label("카카오맵에서 보기", systemImage: "map")
+                        }
+                    }
                     Button {
                         openNaverMap()
                     } label: {
-                        Label("네이버 지도에서 보기", systemImage: "map")
+                        Label("네이버 지도에서 보기", systemImage: "map.fill")
+                    }
+                    if let url = gym.linkURL {
+                        Button { openURL(url) } label: {
+                            Label(url.host?.contains("instagram") == true ? "인스타그램" : "홈페이지",
+                                  systemImage: "link")
+                        }
                     }
                     if let phone = gym.phone, let url = URL(string: "tel:" + phone.filter(\.isNumber)) {
                         Button {
@@ -76,7 +91,7 @@ struct GymDetailView: View {
                 }
 
                 Section {
-                    Text("출처: \(gym.source)")
+                    Text(gym.checked.map { "출처: \(gym.source) · \($0) 갱신" } ?? "출처: \(gym.source)")
                     Text("공휴일·이벤트·세팅일에는 영업시간이 달라질 수 있어요.")
                 }
                 .font(.footnote)

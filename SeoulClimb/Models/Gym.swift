@@ -22,9 +22,22 @@ struct Gym: Identifiable, Decodable, Hashable {
     let phone: String?
     /// 월~일 7개. nil = 영업시간 정보 없음, 원소 nil = 휴무, [open, close] = "HH:mm" (close는 최대 "24:00")
     let hours: [[String]?]?
-    let rating: Double?
-    let ratingCount: Int
+    /// 공휴일 영업시간. nil 이면 등록된 정보가 없다.
+    let holidayHours: [String]?
+    /// 업체 홈페이지 또는 인스타그램
+    let link: String?
+    /// 카카오맵 장소 ID
+    let kakaoId: String?
     let source: String
+    /// 출처에서 정보가 마지막으로 갱신된 날짜
+    let checked: String?
+
+    var kakaoURL: URL? {
+        kakaoId.flatMap { URL(string: "https://place.map.kakao.com/\($0)") }
+    }
+    var linkURL: URL? {
+        link.flatMap { URL(string: $0) }
+    }
 
     var coordinate: CLLocationCoordinate2D {
         CLLocationCoordinate2D(latitude: latitude, longitude: longitude)

@@ -9,8 +9,8 @@
 | `SeoulClimb/` | iOS 앱 (SwiftUI + MapKit, iOS 17+) |
 | `web/` | 모바일 웹 / PWA (Leaflet + OpenStreetMap, 빌드 도구 없음) |
 | `gyms.json` | **데이터 원본.** 두 앱이 같은 파일을 복사해 쓴다 |
-| `curate.py` | 원천 데이터 정리 스크립트 |
-| `sync-data.sh` | `curate.py` 실행 후 iOS·웹 양쪽에 복사 |
+| `collect.py` | 카카오맵에서 데이터를 수집하는 스크립트 |
+| `sync-data.sh` | iOS·웹 양쪽에 복사 (`--collect` 로 재수집) |
 
 ## iOS 앱 실행
 
@@ -44,9 +44,20 @@ python3 -m http.server 5173 --directory web
 
 ## 데이터
 
-- 좌표와 요일별 영업시간: [Climblife](https://climblife.co.kr) 암장 DB (Google 지도 기준)
-- 더클라임 서울 10개 지점: [공식 홈페이지](http://theclimb.co.kr/?portfolio=branch) 기준으로 덮어씀
-- 폐점 지점(홍대·서울대·신사), 중복 항목, 클라이밍장이 아닌 시설은 제외
+서울 클라이밍장 **104곳** (실내 93 · 야외 인공암벽 11). 영업시간이 등록된 곳은 67곳.
+
+출처는 셋이며, 정확한 순서대로 적용한다.
+
+1. **체인 공식 홈페이지** — 더클라임 10개 지점
+2. **카카오맵** — 업주가 직접 등록·관리하는 정보. 요일별 + 공휴일 영업시간
+3. **Google 지도** ([Climblife](https://climblife.co.kr) 수집) — 카카오에 시간이 없는 곳 보충
+
+각 암장의 `source` 와 `checked` 필드에 어느 출처에서 언제 갱신된 값인지 남긴다.
+서울 외 지역, 용품점·협회 등 등반 시설이 아닌 곳, 60m 이내 중복은 제외한다.
+
+```bash
+./sync-data.sh --collect   # 카카오맵에서 새로 수집 후 앱·웹에 반영
+```
 
 영업시간 판정은 iOS(`Gym.swift`)와 웹(`app.js`)이 같은 규칙을 쓴다.
 기기 시간대와 상관없이 **항상 한국 시간(Asia/Seoul)** 기준이고,

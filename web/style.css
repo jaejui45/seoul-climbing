@@ -73,6 +73,7 @@ table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 td { padding: 4px 0; }
 td:last-child { text-align: right; font-variant-numeric: tabular-nums; }
 tr.today { font-weight: 700; color: var(--accent); }
+tr.holiday td { color: var(--muted); border-top: 1px solid var(--line); padding-top: 6px; }
 td.off { color: var(--shut); }
 .addr { font-size: 13px; color: var(--muted); margin: 10px 0 8px; }
 .actions { display: flex; flex-wrap: wrap; gap: 6px; }

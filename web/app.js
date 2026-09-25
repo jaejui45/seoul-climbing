@@ -63,6 +63,7 @@ function visible(now) {
   const q = state.q.trim().toLowerCase();
   let list = state.gyms.filter((g) => {
     if (state.filter === 'open' && status(g, now).kind !== 'open') return false;
+    if (state.filter === 'hours' && !g.hours) return false;
     if (state.filter === 'indoor' && g.category !== '실내 클라이밍장') return false;
     if (state.filter === 'outdoor' && g.category !== '야외 인공암벽') return false;
     if (!q) return true;
@@ -88,10 +89,17 @@ function card(gym, now) {
     ? gym.hours.map((_, i) =>
         `<tr class="${i === now.day ? 'today' : ''}"><td>${DAYS[i]}요일</td>` +
         `<td class="${gym.hours[i] ? '' : 'off'}">${hoursText(gym, i)}</td></tr>`).join('')
-    : '<tr><td colspan="2">등록된 영업시간 정보가 없습니다.</td></tr>';
+      + (gym.holidayHours
+          ? `<tr class="holiday"><td>공휴일</td><td>${gym.holidayHours[0]} – ${gym.holidayHours[1]}</td></tr>`
+          : '')
+    : '<tr><td colspan="2">등록된 영업시간 정보가 없습니다. 카카오맵에서 확인해 주세요.</td></tr>';
   const nq = encodeURIComponent(gym.name);
   const phone = gym.phone
     ? `<a href="tel:${gym.phone.replace(/[^0-9]/g, '')}">전화</a>` : '';
+  const kakao = gym.kakaoId
+    ? `<a class="primary" href="https://place.map.kakao.com/${gym.kakaoId}" target="_blank" rel="noopener">카카오맵</a>` : '';
+  const site = gym.link
+    ? `<a href="${esc(gym.link)}" target="_blank" rel="noopener">${/instagram/.test(gym.link) ? '인스타' : '홈페이지'}</a>` : '';
 
   return `<details class="gym">
     <summary>
@@ -103,12 +111,13 @@ function card(gym, now) {
       <table>${rows}</table>
       <p class="addr">${esc(gym.address)}</p>
       <div class="actions">
-        <a class="primary" href="https://map.naver.com/p/search/${nq}" target="_blank" rel="noopener">네이버 지도</a>
-        <a href="https://map.kakao.com/?q=${nq}" target="_blank" rel="noopener">카카오맵</a>
+        ${kakao}
+        <a href="https://map.naver.com/p/search/${nq}" target="_blank" rel="noopener">네이버</a>
         <a href="https://maps.apple.com/?daddr=${gym.latitude},${gym.longitude}&q=${nq}&dirflg=r">길찾기</a>
         ${phone}
+        ${site}
       </div>
-      <p class="src">출처: ${esc(gym.source)} · 공휴일·세팅일에는 달라질 수 있어요.</p>
+      <p class="src">출처: ${esc(gym.source)}${gym.checked ? ` · ${gym.checked} 갱신` : ''}</p>
     </div>
   </details>`;
 }

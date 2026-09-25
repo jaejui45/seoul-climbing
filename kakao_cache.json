@@ -1,0 +1,4256 @@
+[
+ {
+  "kakaoId": "1615143674",
+  "name": "서울숲클라이밍 종로점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.56970709554382,
+  "longitude": 126.99002526264826,
+  "address": "서울 종로구 수표로 96 지하1층",
+  "regions": [
+   "서울",
+   "종로구",
+   "관수동"
+  ],
+  "phone": "010-3289-2705",
+  "link": "https://www.instagram.com/seoulforest_jongro",
+  "hours": [
+   [
+    "09:00",
+    "23:00"
+   ],
+   [
+    "09:00",
+    "23:00"
+   ],
+   [
+    "09:00",
+    "23:00"
+   ],
+   [
+    "09:00",
+    "23:00"
+   ],
+   [
+    "09:00",
+    "23:00"
+   ],
+   [
+    "09:00",
+    "21:00"
+   ],
+   [
+    "09:00",
+    "21:00"
+   ]
+  ],
+  "holidayHours": [
+   "09:00",
+   "21:00"
+  ],
+  "kakaoUpdated": "2026-09-16",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1796322688",
+  "name": "클라이밍파크 종로점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.57110586168921,
+  "longitude": 126.99990944236127,
+  "address": "서울 종로구 종로 199-1",
+  "regions": [
+   "서울",
+   "종로구",
+   "종로4가"
+  ],
+  "phone": "02-762-4662",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-01-23",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1330937676",
+  "name": "피커스 종로점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.57091093328996,
+  "longitude": 126.9913970467491,
+  "address": "서울 종로구 돈화문로5가길 1 피카디리플러스 지하4층",
+  "regions": [
+   "서울",
+   "종로구",
+   "돈의동"
+  ],
+  "phone": "02-526-8862",
+  "link": "https://www.instagram.com/peakers_jongro",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-03-18",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1455205552",
+  "name": "알레클라이밍 혜화점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.58409098882988,
+  "longitude": 127.00070647225391,
+  "address": "서울 종로구 창경궁로34길 18-5 토가빌딩 지하2층",
+  "regions": [
+   "서울",
+   "종로구",
+   "명륜2가"
+  ],
+  "phone": "070-8886-2018",
+  "link": "http://instagram.com/allez_climb_hyehwa",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "196180430",
+  "name": "손상원 클라이밍짐 을지로점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.56837632487716,
+  "longitude": 126.98232832177112,
+  "address": "서울 중구 남대문로 125 iM금융센터 지하1층",
+  "regions": [
+   "서울",
+   "중구",
+   "다동"
+  ],
+  "phone": "02-318-3094",
+  "link": "https://www.instagram.com/sonclimb_euljiro/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "444613083",
+  "name": "을지로 담장 클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.56449605296558,
+  "longitude": 126.9950469348545,
+  "address": "서울 중구 마른내로 63-3 A&D빌딩 2층",
+  "regions": [
+   "서울",
+   "중구",
+   "인현동2가"
+  ],
+  "phone": "02-2272-2855",
+  "link": "https://www.instagram.com/euljiro_damjang/",
+  "hours": [
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "18:00"
+   ],
+   [
+    "10:00",
+    "18:00"
+   ]
+  ],
+  "holidayHours": [
+   "11:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "289064421",
+  "name": "플래시볼더스 클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55921268471214,
+  "longitude": 126.99744215338492,
+  "address": "서울 중구 서애로5길 21 진성빌딩 지하1층",
+  "regions": [
+   "서울",
+   "중구",
+   "필동3가"
+  ],
+  "phone": "0503-7151-3584",
+  "link": "https://www.instagram.com/flash.boulders.gym/",
+  "hours": [
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   null
+  ],
+  "holidayHours": [
+   "10:00",
+   "19:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "2036153750",
+  "name": "신촌담장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.557559223751554,
+  "longitude": 126.94317631874283,
+  "address": "서울 서대문구 신촌역로 10 혜우빌딩 5층",
+  "regions": [
+   "서울",
+   "서대문구",
+   "대현동"
+  ],
+  "phone": "02-313-1003",
+  "link": "https://www.instagram.com/sinchon_damjang",
+  "hours": [
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "21:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "24959013",
+  "name": "써니사이드클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.60079001755352,
+  "longitude": 126.92570418903723,
+  "address": "서울 은평구 은평로 160 경향렉스빌아파트상가 2층 206호",
+  "regions": [
+   "서울",
+   "은평구",
+   "응암동"
+  ],
+  "phone": "02-386-8851",
+  "link": "http://cafe.daum.net/ssunnyside",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "384938612",
+  "name": "산타클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.574281973756065,
+  "longitude": 127.02476856583966,
+  "address": "서울 동대문구 난계로30길 23 이조빌딩 지하1층",
+  "regions": [
+   "서울",
+   "동대문구",
+   "신설동"
+  ],
+  "phone": "02-2233-5157",
+  "link": "https://instagram.com/santaclimbing",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1386545872",
+  "name": "시소",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.60456124004789,
+  "longitude": 126.92240266552483,
+  "address": "서울 은평구 응암로 373 역촌빌딩 2층 13~17호",
+  "regions": [
+   "서울",
+   "은평구",
+   "녹번동"
+  ],
+  "phone": "010-3263-0891",
+  "link": "https://playseesaw.imweb.me/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-06-20",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1872345709",
+  "name": "라이튼클라이밍",
+  "kakaoCategory": "의류판매",
+  "latitude": 37.55990821398086,
+  "longitude": 126.99598889705011,
+  "address": "서울 중구 필동로 18",
+  "regions": [
+   "서울",
+   "중구",
+   "필동2가"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "503402236",
+  "name": "아크테릭스 종로점",
+  "kakaoCategory": "스포츠의류",
+  "latitude": 37.57051475611918,
+  "longitude": 127.00352719215252,
+  "address": "서울 종로구 동호로38길 23 1층",
+  "regions": [
+   "서울",
+   "종로구",
+   "종로5가"
+  ],
+  "phone": "02-2266-2513",
+  "link": "http://arcteryx.co.kr",
+  "hours": [
+   [
+    "09:30",
+    "20:00"
+   ],
+   [
+    "09:30",
+    "20:00"
+   ],
+   [
+    "09:30",
+    "20:00"
+   ],
+   [
+    "09:30",
+    "20:00"
+   ],
+   [
+    "09:30",
+    "20:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ]
+  ],
+  "holidayHours": [
+   "09:30",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-07-22",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "841885464",
+  "name": "그리벨코리아",
+  "kakaoCategory": "아웃도어용품",
+  "latitude": 37.57049676676016,
+  "longitude": 127.00228656175709,
+  "address": "서울 종로구 동호로38길 1",
+  "regions": [
+   "서울",
+   "종로구",
+   "종로5가"
+  ],
+  "phone": "02-2271-4807",
+  "link": "https://grivel.co.kr/",
+  "hours": [
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   null
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-23",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "662516308",
+  "name": "오프더월클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.53433061621153,
+  "longitude": 126.99493578910533,
+  "address": "서울 용산구 이태원로 190 mode127 지하2층",
+  "regions": [
+   "서울",
+   "용산구",
+   "이태원동"
+  ],
+  "phone": "02-6958-7796",
+  "link": "https://www.instagram.com/offthewallclimbing_itaewon/",
+  "hours": [
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "20907214",
+  "name": "손정준 스포츠클라이밍연구소",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.543444101463585,
+  "longitude": 127.01641655808403,
+  "address": "서울 성동구 한림말5길 25",
+  "regions": [
+   "서울",
+   "성동구",
+   "옥수동"
+  ],
+  "phone": null,
+  "link": "http://cafe.daum.net/sonclimbing",
+  "hours": [
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "22:30"
+   ],
+   null,
+   [
+    "10:00",
+    "18:00"
+   ]
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-08-31",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "188938778",
+  "name": "훅클라이밍 왕십리점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55821988763236,
+  "longitude": 127.0354834255549,
+  "address": "서울 성동구 고산자로6길 40 2층",
+  "regions": [
+   "서울",
+   "성동구",
+   "행당동"
+  ],
+  "phone": "02-2282-4739",
+  "link": null,
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1221512402",
+  "name": "서울클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.57586991327555,
+  "longitude": 127.03078250186732,
+  "address": "서울 동대문구 무학로 130",
+  "regions": [
+   "서울",
+   "동대문구",
+   "용두동"
+  ],
+  "phone": "02-928-4677",
+  "link": "http://cafe.daum.net/scc810",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2019-08-05",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "807821546",
+  "name": "웨어하우스 볼더링",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.58558350363587,
+  "longitude": 127.03988930589084,
+  "address": "서울 동대문구 경동시장로23길 5 가,나동 1층",
+  "regions": [
+   "서울",
+   "동대문구",
+   "제기동"
+  ],
+  "phone": "010-5793-7980",
+  "link": "https://www.instagram.com/warehouse_bouldering/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "633255619",
+  "name": "더클라임 성수점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.54676810321139,
+  "longitude": 127.06527987338404,
+  "address": "서울 성동구 아차산로17길 49 생각공장데시앙플렉스 지하1층",
+  "regions": [
+   "서울",
+   "성동구",
+   "성수동2가"
+  ],
+  "phone": "02-499-5014",
+  "link": "http://theclimb.co.kr/",
+  "hours": [
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-07-22",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "8043078",
+  "name": "응봉산인공암벽공원",
+  "kakaoCategory": "도시근린공원",
+  "latitude": 37.54840756025033,
+  "longitude": 127.03069425431808,
+  "address": "서울 성동구 독서당로60길 13-1",
+  "regions": [
+   "서울",
+   "성동구",
+   "응봉동"
+  ],
+  "phone": "02-2286-6061",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2023-09-22",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "2052812646",
+  "name": "응봉산 암벽공원 주차장",
+  "kakaoCategory": "주차장",
+  "latitude": 37.54854084068987,
+  "longitude": 127.03095232040904,
+  "address": "서울 성동구 응봉동 269-4",
+  "regions": [
+   "서울",
+   "성동구",
+   "응봉동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2022-02-03",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1726991902",
+  "name": "암벽공원 음수대",
+  "kakaoCategory": "공원시설물",
+  "latitude": 37.548555331074425,
+  "longitude": 127.03066715580786,
+  "address": "서울 성동구 응봉동 269-4 공원 내 위치",
+  "regions": [
+   "서울",
+   "성동구",
+   "응봉동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-05-20",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "26333002",
+  "name": "응봉암벽공원 개방화장실",
+  "kakaoCategory": "화장실",
+  "latitude": 37.54850121808215,
+  "longitude": 127.03087082677172,
+  "address": "서울 성동구 독서당로60길 13-1",
+  "regions": [
+   "서울",
+   "성동구",
+   "응봉동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2020-04-17",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "17808293",
+  "name": "뚝섬한강공원 인공암벽",
+  "kakaoCategory": "공원시설물",
+  "latitude": 37.53219147490965,
+  "longitude": 127.06241155866599,
+  "address": "서울 광진구 자양동 179-4",
+  "regions": [
+   "서울",
+   "광진구",
+   "자양동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-09-30",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1754498827",
+  "name": "한강시민공원(뚝섬지구) 음수대22",
+  "kakaoCategory": "공원시설물",
+  "latitude": 37.53195358680412,
+  "longitude": 127.06245661557259,
+  "address": "서울 광진구 자양동 97-5 암벽등반 앞",
+  "regions": [
+   "서울",
+   "광진구",
+   "자양동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2021-07-23",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1754181570",
+  "name": "한강시민공원(뚝섬지구) 음수대21",
+  "kakaoCategory": "공원시설물",
+  "latitude": 37.53139104249792,
+  "longitude": 127.0630580352355,
+  "address": "서울 광진구 자양동 97-5 암벽등반 앞",
+  "regions": [
+   "서울",
+   "광진구",
+   "자양동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2021-07-23",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "745525153",
+  "name": "그루트클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.54233243237262,
+  "longitude": 127.04856549432566,
+  "address": "서울 성동구 성수일로 19 유한타워 지하2층",
+  "regions": [
+   "서울",
+   "성동구",
+   "성수동1가"
+  ],
+  "phone": "010-2850-3421",
+  "link": "https://www.instagram.com/groot_climbing/",
+  "hours": [
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "250906410",
+  "name": "더월클라이밍창고",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.54676810321139,
+  "longitude": 127.06527987338404,
+  "address": "서울 성동구 아차산로17길 49 지하1층 RB 106~108, RB 111~113호",
+  "regions": [
+   "서울",
+   "성동구",
+   "성수동2가"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-12-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1993300418",
+  "name": "몽키즈클라이밍 답십리점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.575223244601744,
+  "longitude": 127.05492622956803,
+  "address": "서울 동대문구 사가정로 80 답십리뉴타운 카운티에비뉴 1층 124~126호",
+  "regions": [
+   "서울",
+   "동대문구",
+   "답십리동"
+  ],
+  "phone": "02-2212-0518",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1689439202",
+  "name": "배봉산 인공암벽장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.57975693637017,
+  "longitude": 127.06240142838774,
+  "address": "서울 동대문구 전농동 산 32-20",
+  "regions": [
+   "서울",
+   "동대문구",
+   "전농동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-08-24",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1827043506",
+  "name": "레드포인트클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55740471098507,
+  "longitude": 127.08077619559256,
+  "address": "서울 광진구 천호대로109길 9 지하 101호",
+  "regions": [
+   "서울",
+   "광진구",
+   "중곡동"
+  ],
+  "phone": "02-456-5013",
+  "link": null,
+  "hours": [
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "18:00"
+   ],
+   [
+    "11:00",
+    "18:00"
+   ]
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "2067403979",
+  "name": "조규복클라이밍센터 강변점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.53488648446598,
+  "longitude": 127.09130581047093,
+  "address": "서울 광진구 구의강변로 45 성진프라자 1층 104호",
+  "regions": [
+   "서울",
+   "광진구",
+   "구의동"
+  ],
+  "phone": "02-454-5014",
+  "link": "https://cafe.daum.net/jgbclimbingcenter",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "27323437",
+  "name": "버티고클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55510905415697,
+  "longitude": 127.08576690231857,
+  "address": "서울 광진구 천호대로 611 파크웨이빌딩 지하1층",
+  "regions": [
+   "서울",
+   "광진구",
+   "중곡동"
+  ],
+  "phone": "02-446-6111",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "931706576",
+  "name": "서울숲클라이밍 잠실점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.51102964972916,
+  "longitude": 127.08415557395638,
+  "address": "서울 송파구 백제고분로7길 49 지하1층",
+  "regions": [
+   "서울",
+   "송파구",
+   "잠실동"
+  ],
+  "phone": "010-3371-2703",
+  "link": "https://instagram.com/seoulforest_jamsil",
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "21:00"
+   ],
+   [
+    "10:00",
+    "21:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "21:00"
+  ],
+  "kakaoUpdated": "2026-09-13",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "239953917",
+  "name": "온플릭클라이밍 천호점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.540806297643904,
+  "longitude": 127.12455684339939,
+  "address": "서울 강동구 올림픽로 664 대우한강베네시티 상가동 지하1층 101호",
+  "regions": [
+   "서울",
+   "강동구",
+   "천호동"
+  ],
+  "phone": "02-486-6806",
+  "link": "https://www.instagram.com/onfleek_cheonho",
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-08-31",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1270950119",
+  "name": "클라임투게더",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.5147202395824,
+  "longitude": 127.06048315465232,
+  "address": "서울 강남구 영동대로 602 미켈란107 6층 케이239호",
+  "regions": [
+   "서울",
+   "강남구",
+   "삼성동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-16",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "27258808",
+  "name": "중랑스포츠클라이밍경기장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.573395205845436,
+  "longitude": 127.09119432368514,
+  "address": "서울 중랑구 면목동 산 1-4",
+  "regions": [
+   "서울",
+   "중랑구",
+   "면목동"
+  ],
+  "phone": "070-4193-6108",
+  "link": "https://cafe.naver.com/jnclimb",
+  "hours": [
+   [
+    "10:00",
+    "21:30"
+   ],
+   null,
+   [
+    "10:00",
+    "21:30"
+   ],
+   [
+    "10:00",
+    "21:30"
+   ],
+   [
+    "10:00",
+    "21:30"
+   ],
+   [
+    "10:00",
+    "19:30"
+   ],
+   [
+    "10:00",
+    "19:30"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "19:30"
+  ],
+  "kakaoUpdated": "2026-05-04",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "460790324",
+  "name": "클라임투더문",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.50318558924386,
+  "longitude": 127.09131695330264,
+  "address": "서울 송파구 백제고분로 224 창대빌딩 지하1층",
+  "regions": [
+   "서울",
+   "송파구",
+   "삼전동"
+  ],
+  "phone": "0507-1431-5019",
+  "link": "https://www.instagram.com/climb_t_t_moon/",
+  "hours": [
+   [
+    "14:00",
+    "22:30"
+   ],
+   [
+    "14:00",
+    "22:30"
+   ],
+   [
+    "14:00",
+    "22:30"
+   ],
+   [
+    "14:00",
+    "22:30"
+   ],
+   null,
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "19:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "10817028",
+  "name": "더탑실내암벽 송파점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.510110285200376,
+  "longitude": 127.11077489455982,
+  "address": "서울 송파구 오금로18길 5",
+  "regions": [
+   "서울",
+   "송파구",
+   "송파동"
+  ],
+  "phone": "02-423-8848",
+  "link": "http://cafe.daum.net/loveclimb",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "768810860",
+  "name": "강남스포츠클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.50345751106805,
+  "longitude": 127.06745428006674,
+  "address": "서울 강남구 대치동 1010-1",
+  "regions": [
+   "서울",
+   "강남구",
+   "대치동"
+  ],
+  "phone": "070-7733-8977",
+  "link": null,
+  "hours": [
+   [
+    "08:00",
+    "21:00"
+   ],
+   null,
+   [
+    "08:00",
+    "21:00"
+   ],
+   [
+    "08:00",
+    "21:00"
+   ],
+   [
+    "08:00",
+    "21:00"
+   ],
+   [
+    "08:00",
+    "21:00"
+   ],
+   [
+    "08:00",
+    "21:00"
+   ]
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-05-19",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1700395604",
+  "name": "대치유수지체육공원 인공암벽장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.50345391479693,
+  "longitude": 127.06744070545402,
+  "address": "서울 강남구 대치동 1010-1",
+  "regions": [
+   "서울",
+   "강남구",
+   "대치동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-09-30",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "225895844",
+  "name": "알레클라임",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.536571260873124,
+  "longitude": 127.13783751834049,
+  "address": "서울 강동구 천호대로177길 39 거산유팰리스2차 지하2층 B201호",
+  "regions": [
+   "서울",
+   "강동구",
+   "길동"
+  ],
+  "phone": "02-477-2018",
+  "link": "https://www.instagram.com/allez_climb_gangdong",
+  "hours": [
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "22:00"
+   ],
+   [
+    "12:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "12:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "222397833",
+  "name": "크래커클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.595882811461365,
+  "longitude": 127.08799684060178,
+  "address": "서울 중랑구 면목로92길 37-4 지하1층",
+  "regions": [
+   "서울",
+   "중랑구",
+   "상봉동"
+  ],
+  "phone": "070-4130-1111",
+  "link": "https://www.instagram.com/cracker_sangbong/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1817443322",
+  "name": "몽키즈클라이밍 신내점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.6151343183436,
+  "longitude": 127.09376878833953,
+  "address": "서울 중랑구 신내로17길 39 신내7단지 진로아파트상가 지하1층",
+  "regions": [
+   "서울",
+   "중랑구",
+   "신내동"
+  ],
+  "phone": "0507-1396-3423",
+  "link": "https://www.instagram.com/mongkids_sinnae",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1506558196",
+  "name": "마스터클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.598265429188224,
+  "longitude": 127.09670086545688,
+  "address": "서울 중랑구 용마산로115길 65 5층",
+  "regions": [
+   "서울",
+   "중랑구",
+   "망우동"
+  ],
+  "phone": "02-977-5333",
+  "link": "https://blog.naver.com/master_climbing",
+  "hours": [
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "18:00"
+   ],
+   null
+  ],
+  "holidayHours": [
+   "11:00",
+   "18:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "176517375",
+  "name": "스파이더스 클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.619452781321556,
+  "longitude": 127.07759921637708,
+  "address": "서울 노원구 동일로174길 37-8 제일빌딩 지하1층",
+  "regions": [
+   "서울",
+   "노원구",
+   "공릉동"
+  ],
+  "phone": "02-741-0837",
+  "link": "https://cafe.naver.com/spidersclimbing/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-06-10",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1258092885",
+  "name": "마운틴스타 클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.59190285195173,
+  "longitude": 127.1381387845636,
+  "address": "경기 구리시 체육관로 82 타워클래스 6층 601호",
+  "regions": [
+   "경기",
+   "구리시",
+   "수택동"
+  ],
+  "phone": "031-565-8849",
+  "link": "https://www.instagram.com/mountainstar2020/",
+  "hours": [
+   [
+    "10:30",
+    "22:30"
+   ],
+   [
+    "10:30",
+    "22:30"
+   ],
+   [
+    "10:30",
+    "22:30"
+   ],
+   [
+    "10:30",
+    "22:30"
+   ],
+   [
+    "10:30",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "17:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "17:00"
+  ],
+  "kakaoUpdated": "2026-09-19",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "2078945273",
+  "name": "퍼즐클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.61427460202177,
+  "longitude": 127.15400970531428,
+  "address": "경기 남양주시 다산중앙로19번길 15 성수프라자 4층 401~403호",
+  "regions": [
+   "경기",
+   "남양주시",
+   "다산동"
+  ],
+  "phone": "031-555-0868",
+  "link": "https://instagram.com/puzzle_climbing?igshid=YzA2ZDJiZGQ=",
+  "hours": [
+   null,
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "11:00",
+    "22:30"
+   ],
+   [
+    "11:00",
+    "20:00"
+   ],
+   [
+    "11:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "11:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-08-31",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "893297359",
+  "name": "비숍클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.65294697374516,
+  "longitude": 127.06054976157426,
+  "address": "서울 노원구 동일로 1393 일신프라자 지하1층 4호",
+  "regions": [
+   "서울",
+   "노원구",
+   "상계동"
+  ],
+  "phone": "02-936-0515",
+  "link": "http://www.instagram.com/b_shop_climbing",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1553501455",
+  "name": "다이노클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.62519369895545,
+  "longitude": 127.1546711237117,
+  "address": "경기 남양주시 다산중앙로146번길 12-14 메트로타워 7층 701~703호",
+  "regions": [
+   "경기",
+   "남양주시",
+   "다산동"
+  ],
+  "phone": "010-9929-4864",
+  "link": "https://instagram.com/dinoclimb2023",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "498707344",
+  "name": "몽키즈클라이밍 중계점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.657706830047466,
+  "longitude": 127.07474687293256,
+  "address": "서울 노원구 한글비석로 359 의암빌딩 지층",
+  "regions": [
+   "서울",
+   "노원구",
+   "중계동"
+  ],
+  "phone": "02-6080-0017",
+  "link": "https://mongkids.co.kr/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-08-31",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1391758447",
+  "name": "맥클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.63346001657924,
+  "longitude": 127.01939551594111,
+  "address": "서울 강북구 수유로 30 지하층",
+  "regions": [
+   "서울",
+   "강북구",
+   "수유동"
+  ],
+  "phone": "010-6701-6194",
+  "link": "http://cafe.daum.net/kdycc",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-08-18",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1269936251",
+  "name": "블랙야크 야크돔",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.662458466908525,
+  "longitude": 127.00966979521797,
+  "address": "서울 강북구 삼양로173길 52",
+  "regions": [
+   "서울",
+   "강북구",
+   "우이동"
+  ],
+  "phone": "02-907-9226",
+  "link": "http://baccenter.blackyak.com/main.asp",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2024-11-17",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "457300921",
+  "name": "북한산국제클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.66230362707767,
+  "longitude": 127.00794254385352,
+  "address": "서울 강북구 삼양로173길 80",
+  "regions": [
+   "서울",
+   "강북구",
+   "우이동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2022-07-20",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "621524945",
+  "name": "블랙야크BAC센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.662422425052576,
+  "longitude": 127.00970152450138,
+  "address": "서울 강북구 삼양로173길 52",
+  "regions": [
+   "서울",
+   "강북구",
+   "우이동"
+  ],
+  "phone": null,
+  "link": "https://baccenter.blackyak.com/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-06-12",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "17008617",
+  "name": "도봉파워클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.658016517257,
+  "longitude": 127.03734866138826,
+  "address": "서울 도봉구 도봉로133길 42 4층",
+  "regions": [
+   "서울",
+   "도봉구",
+   "쌍문동"
+  ],
+  "phone": "02-900-6194",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1071989415",
+  "name": "드림캐처클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.65707958507475,
+  "longitude": 127.06264740833336,
+  "address": "서울 노원구 상계로5길 32 금호프라자 7층",
+  "regions": [
+   "서울",
+   "노원구",
+   "상계동"
+  ],
+  "phone": "02-6080-1229",
+  "link": "https://www.instagram.com/dccg_nowon/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-08-31",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "79968783",
+  "name": "오름클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.65660746727958,
+  "longitude": 127.06910663401577,
+  "address": "서울 노원구 상계로12길 32 지하1층",
+  "regions": [
+   "서울",
+   "노원구",
+   "상계동"
+  ],
+  "phone": null,
+  "link": "https://www.instagram.com/orumm_climbing",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "7814609",
+  "name": "당고개공원 인공암벽장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.66867610382476,
+  "longitude": 127.07641724440462,
+  "address": "서울 노원구 상계동 113-2 수락산당고개지구공원 내",
+  "regions": [
+   "서울",
+   "노원구",
+   "상계동"
+  ],
+  "phone": "02-2289-6841",
+  "link": null,
+  "hours": [
+   null,
+   [
+    "12:00",
+    "21:00"
+   ],
+   [
+    "12:00",
+    "21:00"
+   ],
+   [
+    "12:00",
+    "21:00"
+   ],
+   [
+    "12:00",
+    "21:00"
+   ],
+   [
+    "09:00",
+    "18:00"
+   ],
+   [
+    "09:00",
+    "18:00"
+   ]
+  ],
+  "holidayHours": [
+   "09:00",
+   "18:00"
+  ],
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1539123641",
+  "name": "볼더클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.677885849157185,
+  "longitude": 127.05366418904153,
+  "address": "서울 노원구 동일로241길 53 두산아파트 상가 2층",
+  "regions": [
+   "서울",
+   "노원구",
+   "상계동"
+  ],
+  "phone": "070-4696-3270",
+  "link": "http://cafe.daum.net/boulder-climbinggym/",
+  "hours": [
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "22:30"
+   ],
+   [
+    "10:00",
+    "18:00"
+   ],
+   null
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "330028525",
+  "name": "활바위등반타운암장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.66513012244166,
+  "longitude": 127.08645550228705,
+  "address": "서울 노원구 상계동 산 163",
+  "regions": [
+   "서울",
+   "노원구",
+   "상계동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "636392346",
+  "name": "산클암장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.71181393919322,
+  "longitude": 127.07784513322834,
+  "address": "경기 의정부시 장암동 산 124-1",
+  "regions": [
+   "경기",
+   "의정부시",
+   "장암동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1956627182",
+  "name": "샤모니클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.73268113127088,
+  "longitude": 127.04062605241592,
+  "address": "경기 의정부시 경의로 48 벼룩시장건물 지하1층",
+  "regions": [
+   "경기",
+   "의정부시",
+   "의정부동"
+  ],
+  "phone": "0507-1353-2571",
+  "link": "https://m.booking.naver.com/booking/6/bizes/661150?theme=place&entry=pll&area=pll",
+  "hours": [
+   [
+    "13:00",
+    "23:00"
+   ],
+   [
+    "13:00",
+    "23:00"
+   ],
+   [
+    "13:00",
+    "23:00"
+   ],
+   [
+    "13:00",
+    "23:00"
+   ],
+   [
+    "13:00",
+    "23:00"
+   ],
+   [
+    "13:00",
+    "20:00"
+   ],
+   null
+  ],
+  "holidayHours": [
+   "13:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "251733369",
+  "name": "북한산국제클라이밍센터 및 천문교육센터 개방화장실",
+  "kakaoCategory": "화장실",
+  "latitude": 37.66230362707767,
+  "longitude": 127.00794254385352,
+  "address": "서울 강북구 삼양로173길 80",
+  "regions": [
+   "서울",
+   "강북구",
+   "우이동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-19",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1416981455",
+  "name": "블랙다이아몬드 도봉산점",
+  "kakaoCategory": "아웃도어용품",
+  "latitude": 37.687570930894225,
+  "longitude": 127.04131342088134,
+  "address": "서울 도봉구 도봉산4길 3-14 1-2층",
+  "regions": [
+   "서울",
+   "도봉구",
+   "도봉동"
+  ],
+  "phone": "02-2039-7260",
+  "link": "https://blackdiamondequipment.co.kr/",
+  "hours": [
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   [
+    "09:00",
+    "19:00"
+   ],
+   [
+    "09:00",
+    "19:00"
+   ]
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-07-22",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1238231391",
+  "name": "은평인공암벽장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.638838439848875,
+  "longitude": 126.91715977534936,
+  "address": "서울 은평구 통일로 1078",
+  "regions": [
+   "서울",
+   "은평구",
+   "진관동"
+  ],
+  "phone": "02-350-5370",
+  "link": "https://sports.seoul.go.kr/main/facilities/facilities_view.do?&ft_idx=1414",
+  "hours": [
+   null,
+   [
+    "13:00",
+    "21:00"
+   ],
+   [
+    "13:00",
+    "21:00"
+   ],
+   [
+    "13:00",
+    "21:00"
+   ],
+   [
+    "13:00",
+    "21:00"
+   ],
+   [
+    "10:30",
+    "18:30"
+   ],
+   [
+    "10:30",
+    "18:30"
+   ]
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-02-25",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1843739511",
+  "name": "행클라임 클라이밍짐 구파발점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.63332854522335,
+  "longitude": 126.91791814669233,
+  "address": "서울 은평구 통일로 1020 은평뉴타운 신한헤센스마트 M203호",
+  "regions": [
+   "서울",
+   "은평구",
+   "진관동"
+  ],
+  "phone": "02-357-0305",
+  "link": "https://www.instagram.com/hangclimb_gupabal",
+  "hours": [
+   [
+    "19:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "20:00"
+   ],
+   [
+    "11:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "11:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "566598161",
+  "name": "시소",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.63935978387325,
+  "longitude": 126.92061712758087,
+  "address": "서울 은평구 진관3로 32 은평뉴파크앤타워 1동 3층 311호-21",
+  "regions": [
+   "서울",
+   "은평구",
+   "진관동"
+  ],
+  "phone": "010-3263-0891",
+  "link": "https://www.instagram.com/seesaw_official_",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-07-22",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1225322806",
+  "name": "몽키즈클라이밍 북가좌점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.57789404110793,
+  "longitude": 126.9102039602286,
+  "address": "서울 서대문구 응암로 54 서부프라자빌딩 5층",
+  "regions": [
+   "서울",
+   "서대문구",
+   "북가좌동"
+  ],
+  "phone": "02-304-9732",
+  "link": "https://www.instagram.com/mongkids.dmc_bukgajwa/",
+  "hours": [
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "16:00"
+   ],
+   [
+    "10:00",
+    "16:00"
+   ]
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "25647957",
+  "name": "코알라클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.579275510269234,
+  "longitude": 126.890241224908,
+  "address": "서울 마포구 월드컵북로 396 누리꿈스퀘어 디지털파빌리온 지하1층 B1040호",
+  "regions": [
+   "서울",
+   "마포구",
+   "상암동"
+  ],
+  "phone": "070-7733-4768",
+  "link": "https://www.facebook.com/koalaclimbinggym",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-01-17",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "78694546",
+  "name": "더클라임 연남점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.557668571745616,
+  "longitude": 126.92589189023721,
+  "address": "서울 마포구 양화로 186 3층",
+  "regions": [
+   "서울",
+   "마포구",
+   "동교동"
+  ],
+  "phone": "02-2088-5071",
+  "link": "http://www.theclimb.co.kr",
+  "hours": [
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-02-26",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1491561655",
+  "name": "서울시산악문화체험센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.56944102920138,
+  "longitude": 126.87992779434252,
+  "address": "서울 마포구 하늘공원로 112 지하1층,1-2층",
+  "regions": [
+   "서울",
+   "마포구",
+   "상암동"
+  ],
+  "phone": "02-306-8848",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "688426394",
+  "name": "피커스 신촌점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55656307031745,
+  "longitude": 126.94023452436767,
+  "address": "서울 서대문구 신촌로 129 11층",
+  "regions": [
+   "서울",
+   "서대문구",
+   "창천동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-11-18",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "226789176",
+  "name": "홍대클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55972080155226,
+  "longitude": 126.91738326430574,
+  "address": "서울 마포구 동교로23길 105 순선빌딩 지하",
+  "regions": [
+   "서울",
+   "마포구",
+   "성산동"
+  ],
+  "phone": "02-332-5015",
+  "link": "https://cafe.naver.com/hongdaeclimbing",
+  "hours": [
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "18:00"
+   ],
+   null
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "24580642",
+  "name": "써미트클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55551885636506,
+  "longitude": 126.94212761842569,
+  "address": "서울 마포구 신촌로24안길 14 지하",
+  "regions": [
+   "서울",
+   "마포구",
+   "노고산동"
+  ],
+  "phone": "010-7776-6909",
+  "link": "https://blog.naver.com/summus7",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1854005600",
+  "name": "대한스포츠클라이밍협회",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.556553195557356,
+  "longitude": 126.91781229954464,
+  "address": "서울 마포구 월드컵북로5가길 8-15 문화본부 4층",
+  "regions": [
+   "서울",
+   "마포구",
+   "서교동"
+  ],
+  "phone": "1600-3092",
+  "link": "http://k-climbing.or.kr",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-01-10",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1135946676",
+  "name": "서울볼더스 선유",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.54214442995974,
+  "longitude": 126.89108775313251,
+  "address": "서울 영등포구 양평로28마길 7 3층",
+  "regions": [
+   "서울",
+   "영등포구",
+   "양평동6가"
+  ],
+  "phone": "02-2632-4478",
+  "link": "https://www.instagram.com/seoulboulders_seonyu/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1786078320",
+  "name": "더플라스틱클라이밍 염창점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.54850161320325,
+  "longitude": 126.87619080671823,
+  "address": "서울 강서구 공항대로81길 27 1층",
+  "regions": [
+   "서울",
+   "강서구",
+   "염창동"
+  ],
+  "phone": "02-6084-8890",
+  "link": null,
+  "hours": [
+   [
+    "12:00",
+    "24:00"
+   ],
+   [
+    "12:00",
+    "24:00"
+   ],
+   [
+    "12:00",
+    "24:00"
+   ],
+   [
+    "12:00",
+    "24:00"
+   ],
+   [
+    "12:00",
+    "24:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "690907860",
+  "name": "서종국클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.53719845138843,
+  "longitude": 126.89770265720833,
+  "address": "서울 영등포구 선유로53길 6 문화빌딩 1층",
+  "regions": [
+   "서울",
+   "영등포구",
+   "양평동4가"
+  ],
+  "phone": "02-2676-1932",
+  "link": "http://cafe.daum.net/seojongkukclimbing",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1811685585",
+  "name": "목동클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.547292205179374,
+  "longitude": 126.8708923478063,
+  "address": "서울 양천구 공항대로 596 지하",
+  "regions": [
+   "서울",
+   "양천구",
+   "목동"
+  ],
+  "phone": "010-4750-4291",
+  "link": "https://cafe.naver.com/dolgym",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1974288623",
+  "name": "클라임러버",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.53592257348344,
+  "longitude": 126.90187714345929,
+  "address": "서울 영등포구 당산로49길 12 201호",
+  "regions": [
+   "서울",
+   "영등포구",
+   "당산동6가"
+  ],
+  "phone": "010-5419-7121",
+  "link": "http://www.climblover.com",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1045438278",
+  "name": "더클라임 문래점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.52056720430551,
+  "longitude": 126.89500594772989,
+  "address": "서울 영등포구 당산로 63 1동",
+  "regions": [
+   "서울",
+   "영등포구",
+   "당산동2가"
+  ],
+  "phone": "02-3667-5014",
+  "link": "http://theclimb.co.kr/",
+  "hours": [
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-01-07",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "814897728",
+  "name": "서울볼더스 목동",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.520609783194175,
+  "longitude": 126.87236818183088,
+  "address": "서울 양천구 신목로 53 2층",
+  "regions": [
+   "서울",
+   "양천구",
+   "신정동"
+  ],
+  "phone": "02-2644-4478",
+  "link": "https://www.instagram.com/seoulboulders_mokdong/",
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2025-02-25",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "278485068",
+  "name": "몽키즈클라이밍 목동점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.51556717576535,
+  "longitude": 126.86221469557326,
+  "address": "서울 양천구 목동동로 65 센타프라자 6층 601,602호",
+  "regions": [
+   "서울",
+   "양천구",
+   "신정동"
+  ],
+  "phone": "02-2649-0010",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "349001291",
+  "name": "위클리클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.501903712131394,
+  "longitude": 126.86478212496122,
+  "address": "서울 구로구 경인로47길 68",
+  "regions": [
+   "서울",
+   "구로구",
+   "고척동"
+  ],
+  "phone": null,
+  "link": "https://cafe.naver.com/weeklyclimbing.cafe",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2019-03-14",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "132573277",
+  "name": "피커스클라이밍 구로",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.5011588793355,
+  "longitude": 126.88276950807148,
+  "address": "서울 구로구 구로중앙로 152 NC백화점 신구로점 6층",
+  "regions": [
+   "서울",
+   "구로구",
+   "구로동"
+  ],
+  "phone": "02-526-8850",
+  "link": "https://www.instagram.com/peakers_guro",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-03-11",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "850543972",
+  "name": "서울숲클라이밍 영등포점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.51773538836956,
+  "longitude": 126.90024493938371,
+  "address": "서울 영등포구 문래로 164 SK리더스뷰 B동 1층",
+  "regions": [
+   "서울",
+   "영등포구",
+   "문래동3가"
+  ],
+  "phone": "010-6686-2700",
+  "link": "https://www.instagram.com/seoulforest_yeongdp/",
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "09:00",
+    "21:00"
+   ],
+   [
+    "09:00",
+    "21:00"
+   ]
+  ],
+  "holidayHours": [
+   "09:00",
+   "21:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1030844403",
+  "name": "영등포스포츠클라이밍경기장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.50623637778837,
+  "longitude": 126.89767253746395,
+  "address": "서울 영등포구 도신로15길 11",
+  "regions": [
+   "서울",
+   "영등포구",
+   "도림동"
+  ],
+  "phone": "02-2630-2991",
+  "link": "https://www.y-sisul.or.kr/ydps/menu/general/management_08_01.mir",
+  "hours": [
+   null,
+   [
+    "12:30",
+    "21:30"
+   ],
+   [
+    "12:30",
+    "21:30"
+   ],
+   [
+    "12:30",
+    "21:30"
+   ],
+   [
+    "12:30",
+    "21:30"
+   ],
+   [
+    "10:00",
+    "19:00"
+   ],
+   null
+  ],
+  "holidayHours": [
+   "10:00",
+   "19:00"
+  ],
+  "kakaoUpdated": "2025-04-30",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "14825359",
+  "name": "에이스클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.49772930247767,
+  "longitude": 126.89184890138377,
+  "address": "서울 구로구 가마산로27길 14 신원빌딩 지하1층",
+  "regions": [
+   "서울",
+   "구로구",
+   "구로동"
+  ],
+  "phone": "02-836-8848",
+  "link": "https://www.instagram.com/aceclimbingcenter/",
+  "hours": [
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "18:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-17",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "956081122",
+  "name": "알레클라임 영등포점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.521575835936346,
+  "longitude": 126.90285521035567,
+  "address": "서울 영등포구 영등포로33길 14 스위트빌 B01호",
+  "regions": [
+   "서울",
+   "영등포구",
+   "영등포동6가"
+  ],
+  "phone": "070-8862-2018",
+  "link": "https://cafe.naver.com/allerclimbing",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1267787018",
+  "name": "썬클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.49784989671126,
+  "longitude": 126.88227710122213,
+  "address": "서울 구로구 구로동로 215-1 3층",
+  "regions": [
+   "서울",
+   "구로구",
+   "구로동"
+  ],
+  "phone": "02-858-5014",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1015936668",
+  "name": "클라임웍스",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.52576126834446,
+  "longitude": 126.9088546418511,
+  "address": "서울 영등포구 버드나루로 85 훼미리하우스117 지하 1층",
+  "regions": [
+   "서울",
+   "영등포구",
+   "영등포동7가"
+  ],
+  "phone": "02-2676-8848",
+  "link": "https://www.instagram.com/climb_works/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "24274125",
+  "name": "보라매공원 인공암벽등반장",
+  "kakaoCategory": "스포츠시설",
+  "latitude": 37.490580624230375,
+  "longitude": 126.92136736012019,
+  "address": "서울 동작구 보라매로5길 58",
+  "regions": [
+   "서울",
+   "동작구",
+   "신대방동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "504806909",
+  "name": "더클라임 마곡점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.56055547747558,
+  "longitude": 126.83389097289779,
+  "address": "서울 강서구 마곡동로 62 마곡사이언스타워 7층",
+  "regions": [
+   "서울",
+   "강서구",
+   "마곡동"
+  ],
+  "phone": "02-2668-5014",
+  "link": "http://www.theclimb.co.kr",
+  "hours": [
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-02-26",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1756311380",
+  "name": "강서한강공원 인공암벽장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.583363379550214,
+  "longitude": 126.82283123637441,
+  "address": "서울 강서구 마곡동 903",
+  "regions": [
+   "서울",
+   "강서구",
+   "마곡동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1668558300",
+  "name": "어거스트클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.563044974164505,
+  "longitude": 126.85222590107874,
+  "address": "서울 강서구 양천로 461 주영빌딩 8층",
+  "regions": [
+   "서울",
+   "강서구",
+   "가양동"
+  ],
+  "phone": "070-7755-9289",
+  "link": "https://www.instagram.com/august.climbing_gayang/",
+  "hours": [
+   [
+    "14:00",
+    "23:00"
+   ],
+   [
+    "14:00",
+    "23:00"
+   ],
+   [
+    "14:00",
+    "23:00"
+   ],
+   [
+    "14:00",
+    "23:00"
+   ],
+   [
+    "14:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "19:00"
+   ],
+   [
+    "11:00",
+    "19:00"
+   ]
+  ],
+  "holidayHours": [
+   "11:00",
+   "19:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "26527675",
+  "name": "클라이밍88",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55684331492767,
+  "longitude": 126.84719052725157,
+  "address": "서울 강서구 공항대로 376 KBS스포츠월드 제2체육관 1층",
+  "regions": [
+   "서울",
+   "강서구",
+   "화곡동"
+  ],
+  "phone": "02-2600-8920",
+  "link": "https://www.instagram.com/8climbing8/?hl=ko",
+  "hours": [
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "18:00"
+   ],
+   [
+    "11:00",
+    "18:00"
+   ]
+  ],
+  "holidayHours": [
+   "11:00",
+   "18:00"
+  ],
+  "kakaoUpdated": "2026-06-15",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1176420694",
+  "name": "몽키즈 강서마곡점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.56699612720175,
+  "longitude": 126.81705200732041,
+  "address": "서울 강서구 방화대로 294 W타워 502호",
+  "regions": [
+   "서울",
+   "강서구",
+   "마곡동"
+  ],
+  "phone": "02-6737-1253",
+  "link": "https://www.instagram.com/mongkids_gangseomagok",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "496958523",
+  "name": "서울숲클라이밍 구로점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.48492839090796,
+  "longitude": 126.89653927877454,
+  "address": "서울 구로구 디지털로 300 지밸리비즈플라자 지하1층 120~124호",
+  "regions": [
+   "서울",
+   "구로구",
+   "구로동"
+  ],
+  "phone": "010-3374-2704",
+  "link": "https://www.instagram.com/seoulforest_guro",
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "09:00",
+    "21:00"
+   ],
+   [
+    "09:00",
+    "21:00"
+   ]
+  ],
+  "holidayHours": [
+   "09:00",
+   "21:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "2051667887",
+  "name": "천왕산생태공원 인공암벽장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.47880558204427,
+  "longitude": 126.83122756825837,
+  "address": "서울 구로구 항동 149",
+  "regions": [
+   "서울",
+   "구로구",
+   "항동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2024-09-06",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "8202950",
+  "name": "광명시민체육관 인공암벽장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.460763139022376,
+  "longitude": 126.87074738669224,
+  "address": "경기 광명시 오리로 703",
+  "regions": [
+   "경기",
+   "광명시",
+   "하안동"
+  ],
+  "phone": "02-2680-6620",
+  "link": "https://www.gm.go.kr/pt/partInfo/pp/pp04/PTMN844.jsp",
+  "hours": [
+   null,
+   [
+    "13:00",
+    "21:30"
+   ],
+   [
+    "13:00",
+    "21:30"
+   ],
+   [
+    "13:00",
+    "21:30"
+   ],
+   [
+    "13:00",
+    "21:30"
+   ],
+   [
+    "10:00",
+    "17:30"
+   ],
+   [
+    "10:00",
+    "17:30"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "17:30"
+  ],
+  "kakaoUpdated": "2026-03-27",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1327018857",
+  "name": "클라임투게더아카데미 광명점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.459993624240035,
+  "longitude": 126.87574008389166,
+  "address": "경기 광명시 범안로 1008 5층",
+  "regions": [
+   "경기",
+   "광명시",
+   "하안동"
+  ],
+  "phone": "02-898-5198",
+  "link": "https://www.climbtogether.co.kr/",
+  "hours": [
+   [
+    "14:00",
+    "20:00"
+   ],
+   [
+    "14:00",
+    "20:00"
+   ],
+   [
+    "14:00",
+    "20:00"
+   ],
+   [
+    "14:00",
+    "20:00"
+   ],
+   [
+    "14:00",
+    "20:00"
+   ],
+   [
+    "10:00",
+    "18:00"
+   ],
+   [
+    "10:00",
+    "18:00"
+   ]
+  ],
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-16",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1107340927",
+  "name": "몽키즈 클라이밍 영등포점",
+  "kakaoCategory": "스포츠시설",
+  "latitude": 37.518239789080404,
+  "longitude": 126.89588247273568,
+  "address": "서울 영등포구 당산로 42 지하2층",
+  "regions": [
+   "서울",
+   "영등포구",
+   "문래동3가"
+  ],
+  "phone": "02-2088-5310",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-02-17",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "852708965",
+  "name": "바위하는사람들 암장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.44299308033619,
+  "longitude": 126.92174715696518,
+  "address": "서울 금천구 시흥동 산 83-73",
+  "regions": [
+   "서울",
+   "금천구",
+   "시흥동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2024-10-04",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1944081314",
+  "name": "유즈업",
+  "kakaoCategory": "술집",
+  "latitude": 37.4788781386427,
+  "longitude": 126.88959230905239,
+  "address": "서울 금천구 디지털로 210 지하1층",
+  "regions": [
+   "서울",
+   "금천구",
+   "가산동"
+  ],
+  "phone": "0502-5552-3659",
+  "link": "https://www.instagram.com/yuzzup_gasan",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1115009396",
+  "name": "더클라임 이수점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.48200972364158,
+  "longitude": 126.98148940732216,
+  "address": "서울 동작구 동작대로 59 쌍립빌딩 지하1층",
+  "regions": [
+   "서울",
+   "동작구",
+   "사당동"
+  ],
+  "phone": "02-588-5014",
+  "link": "http://theclimb.co.kr",
+  "hours": [
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-07-22",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1851049470",
+  "name": "볼더생활",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.48845315756523,
+  "longitude": 126.97810921987657,
+  "address": "서울 동작구 동작대로29길 69 7층",
+  "regions": [
+   "서울",
+   "동작구",
+   "사당동"
+  ],
+  "phone": "02-533-5294",
+  "link": null,
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "610038060",
+  "name": "더클라임 신림점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.48231061158461,
+  "longitude": 126.9290190816207,
+  "address": "서울 관악구 신원로 35 5층",
+  "regions": [
+   "서울",
+   "관악구",
+   "신림동"
+  ],
+  "phone": "02-877-8821",
+  "link": "http://theclimb.co.kr",
+  "hours": [
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "07:30",
+    "24:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-02-26",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "2138916951",
+  "name": "스톤즈클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.47506962845454,
+  "longitude": 126.97014069394284,
+  "address": "서울 관악구 남부순환로 1990-3 닷컴힐즈 102동 B201호",
+  "regions": [
+   "서울",
+   "관악구",
+   "봉천동"
+  ],
+  "phone": "02-877-7397",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "367482090",
+  "name": "더클라임 사당점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.47448088763785,
+  "longitude": 126.98148222019303,
+  "address": "서울 관악구 과천대로 939 B201호",
+  "regions": [
+   "서울",
+   "관악구",
+   "남현동"
+  ],
+  "phone": "02-585-8821",
+  "link": "http://theclimb.co.kr/",
+  "hours": [
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-02-04",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1671084771",
+  "name": "보람애스포츠클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.48570931480781,
+  "longitude": 126.92340769085533,
+  "address": "서울 관악구 관천로 81 지하",
+  "regions": [
+   "서울",
+   "관악구",
+   "신림동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "23180875",
+  "name": "인클라이밍센터",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.47747879035802,
+  "longitude": 126.96325690623006,
+  "address": "서울 관악구 남부순환로 1925 지하1층",
+  "regions": [
+   "서울",
+   "관악구",
+   "봉천동"
+  ],
+  "phone": null,
+  "link": "http://cafe.daum.net/inclimbingcenter",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1965545283",
+  "name": "더월클라이밍 사당지점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.47437636267328,
+  "longitude": 126.98143250354137,
+  "address": "서울 관악구 과천대로 939",
+  "regions": [
+   "서울",
+   "관악구",
+   "남현동"
+  ],
+  "phone": "02-585-8821",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-04-11",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1551959464",
+  "name": "더월클라이밍 이수지점",
+  "kakaoCategory": "스포츠용품",
+  "latitude": 37.48200972364158,
+  "longitude": 126.98148940732216,
+  "address": "서울 동작구 동작대로 59",
+  "regions": [
+   "서울",
+   "동작구",
+   "사당동"
+  ],
+  "phone": "02-588-5014",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2024-11-22",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "207562819",
+  "name": "엠씨씨(mcc) 실내암벽클럽",
+  "kakaoCategory": "스포츠시설",
+  "latitude": 37.47920626615769,
+  "longitude": 126.98488184715822,
+  "address": "서울 서초구 방배천로6길 38-1",
+  "regions": [
+   "서울",
+   "서초구",
+   "방배동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "408430175",
+  "name": "더클라임 논현점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.50837614894158,
+  "longitude": 127.02221780711012,
+  "address": "서울 서초구 강남대로 519 도충빌딩 지하1층",
+  "regions": [
+   "서울",
+   "서초구",
+   "반포동"
+  ],
+  "phone": "02-545-5014",
+  "link": "http://theclimb.co.kr",
+  "hours": [
+   [
+    "09:30",
+    "24:00"
+   ],
+   [
+    "09:30",
+    "24:00"
+   ],
+   [
+    "09:30",
+    "24:00"
+   ],
+   [
+    "09:30",
+    "24:00"
+   ],
+   [
+    "09:30",
+    "24:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-05-27",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "749051732",
+  "name": "서울대학교 암벽연습장",
+  "kakaoCategory": "학교부속시설",
+  "latitude": 37.45544576041142,
+  "longitude": 126.94942921368177,
+  "address": "서울 관악구 관악로 1",
+  "regions": [
+   "서울",
+   "관악구",
+   "신림동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-09-30",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "2029401912",
+  "name": "손상원클라이밍짐 강남점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.492624949233225,
+  "longitude": 127.02958133546672,
+  "address": "서울 서초구 강남대로 331 지하1층",
+  "regions": [
+   "서울",
+   "서초구",
+   "서초동"
+  ],
+  "phone": "02-523-3094",
+  "link": "http://www.sswclimbing.co.kr",
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1371007415",
+  "name": "더월클라이밍 논현지점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.50829685881846,
+  "longitude": 127.02222683178073,
+  "address": "서울 서초구 강남대로 519 지하1층",
+  "regions": [
+   "서울",
+   "서초구",
+   "반포동"
+  ],
+  "phone": "02-545-5014",
+  "link": "http://theclimb.co.kr",
+  "hours": [
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2023-12-20",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "953399573",
+  "name": "더클라임 양재점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.48518448308042,
+  "longitude": 127.03588303317434,
+  "address": "서울 강남구 남부순환로 2615 극동스타클래스 지하1층 B101~B102호",
+  "regions": [
+   "서울",
+   "강남구",
+   "도곡동"
+  ],
+  "phone": "02-576-8821",
+  "link": "http://theclimb.co.kr/",
+  "hours": [
+   [
+    "08:30",
+    "24:00"
+   ],
+   [
+    "08:30",
+    "24:00"
+   ],
+   [
+    "08:30",
+    "24:00"
+   ],
+   [
+    "08:30",
+    "24:00"
+   ],
+   [
+    "08:30",
+    "24:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-07-22",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "2029901090",
+  "name": "클라이밍파크 강남점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.49553709921911,
+  "longitude": 127.02919800224237,
+  "address": "서울 강남구 강남대로 364 미왕빌딩 지하1층",
+  "regions": [
+   "서울",
+   "강남구",
+   "역삼동"
+  ],
+  "phone": null,
+  "link": "https://www.instagram.com/climbing_park_gangnam",
+  "hours": [
+   [
+    "07:00",
+    "23:00"
+   ],
+   [
+    "07:00",
+    "23:00"
+   ],
+   [
+    "07:00",
+    "23:00"
+   ],
+   [
+    "07:00",
+    "23:00"
+   ],
+   [
+    "07:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "21:00"
+   ],
+   [
+    "10:00",
+    "21:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "21:00"
+  ],
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "807578478",
+  "name": "더클라임 강남점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.497590670098226,
+  "longitude": 127.03199428729043,
+  "address": "서울 강남구 테헤란로8길 21 강남화인빌딩 지하1층",
+  "regions": [
+   "서울",
+   "강남구",
+   "역삼동"
+  ],
+  "phone": "02-566-8821",
+  "link": "http://theclimb.co.kr/",
+  "hours": [
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "09:30",
+    "23:30"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ],
+   [
+    "08:00",
+    "22:00"
+   ]
+  ],
+  "holidayHours": [
+   "08:00",
+   "22:00"
+  ],
+  "kakaoUpdated": "2026-02-27",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "612949056",
+  "name": "역삼클라이밍랩",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.49809981690313,
+  "longitude": 127.04054386279905,
+  "address": "서울 강남구 테헤란로30길 49 지하 1층",
+  "regions": [
+   "서울",
+   "강남구",
+   "역삼동"
+  ],
+  "phone": null,
+  "link": "http://yclclimbing.modoo.at",
+  "hours": [
+   [
+    "11:30",
+    "22:00"
+   ],
+   [
+    "11:30",
+    "22:00"
+   ],
+   [
+    "11:30",
+    "22:00"
+   ],
+   [
+    "11:30",
+    "22:00"
+   ],
+   [
+    "15:00",
+    "22:00"
+   ],
+   [
+    "12:00",
+    "19:00"
+   ],
+   null
+  ],
+  "holidayHours": [
+   "12:00",
+   "19:00"
+  ],
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1603222466",
+  "name": "콜스에듀케이션",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.49774646321668,
+  "longitude": 127.0410050635197,
+  "address": "서울 강남구 논현로76길 27",
+  "regions": [
+   "서울",
+   "강남구",
+   "역삼동"
+  ],
+  "phone": "070-7766-2152",
+  "link": "https://blog.naver.com/colsiceage",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2022-03-30",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "403186026",
+  "name": "클라이밍파크 신논현점",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.50415885834453,
+  "longitude": 127.02514347898588,
+  "address": "서울 강남구 강남대로 468 충림빌딩 지하3층",
+  "regions": [
+   "서울",
+   "강남구",
+   "역삼동"
+  ],
+  "phone": "02-555-4662",
+  "link": "http://blog.naver.com/climbingpark",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-08",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "820005366",
+  "name": "닷클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.484334264002676,
+  "longitude": 127.1217991985594,
+  "address": "서울 송파구 법원로8길 9 청림타워 2층",
+  "regions": [
+   "서울",
+   "송파구",
+   "문정동"
+  ],
+  "phone": "070-7700-0120",
+  "link": null,
+  "hours": [
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "14:00",
+    "23:00"
+   ],
+   [
+    "12:00",
+    "23:00"
+   ],
+   [
+    "14:00",
+    "23:00"
+   ],
+   [
+    "10:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "23:00"
+   ]
+  ],
+  "holidayHours": [
+   "12:00",
+   "19:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1822085153",
+  "name": "브릭스클라이밍짐",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.494244508094006,
+  "longitude": 127.122606856648,
+  "address": "서울 송파구 중대로 130 원전빌딩 지하 1층",
+  "regions": [
+   "서울",
+   "송파구",
+   "가락동"
+  ],
+  "phone": "070-7775-1133",
+  "link": null,
+  "hours": [
+   [
+    "16:00",
+    "23:00"
+   ],
+   [
+    "16:00",
+    "23:00"
+   ],
+   [
+    "16:00",
+    "23:00"
+   ],
+   [
+    "16:00",
+    "23:00"
+   ],
+   [
+    "17:00",
+    "23:00"
+   ],
+   [
+    "11:00",
+    "20:00"
+   ],
+   [
+    "11:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "12:00",
+   "19:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "958971411",
+  "name": "루트클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.509875669073885,
+  "longitude": 127.12554146562593,
+  "address": "서울 송파구 양재대로71길 5-14 지하1층",
+  "regions": [
+   "서울",
+   "송파구",
+   "방이동"
+  ],
+  "phone": "070-8822-2345",
+  "link": "https://www.instagram.com/route_climbing_gym",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-09",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1586294019",
+  "name": "ROUTE 클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.50986126745898,
+  "longitude": 127.12552786897494,
+  "address": "서울 송파구 양재대로71길 5-14",
+  "regions": [
+   "서울",
+   "송파구",
+   "방이동"
+  ],
+  "phone": "070-8822-2345",
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2025-12-12",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "648392033",
+  "name": "온세대클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.52043840418061,
+  "longitude": 127.13897523807334,
+  "address": "서울 강동구 양재대로 1300 올림픽파크포레온 스테이션9동 지하층 B101호",
+  "regions": [
+   "서울",
+   "강동구",
+   "둔촌동"
+  ],
+  "phone": "0503-7154-5246",
+  "link": "https://www.instagram/onsedae_climbing",
+  "hours": [
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "11:00",
+    "22:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ],
+   [
+    "10:00",
+    "20:00"
+   ]
+  ],
+  "holidayHours": [
+   "10:00",
+   "20:00"
+  ],
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "27117953",
+  "name": "청소년인공암벽장",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55107862062066,
+  "longitude": 127.1428254570221,
+  "address": "서울 강동구 구천면로 395",
+  "regions": [
+   "서울",
+   "강동구",
+   "명일동"
+  ],
+  "phone": null,
+  "link": null,
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2016-03-25",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "1139844153",
+  "name": "쿠키즈클라이밍",
+  "kakaoCategory": "클라이밍",
+  "latitude": 37.55004633075833,
+  "longitude": 127.14409998955672,
+  "address": "서울 강동구 양재대로 1620 명일빌딩 지하1층",
+  "regions": [
+   "서울",
+   "강동구",
+   "명일동"
+  ],
+  "phone": "02-426-2352",
+  "link": "https://m.place.naver.com/place/2059819072/home?entry=pll",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-09-01",
+  "status": "Y"
+ },
+ {
+  "kakaoId": "754659097",
+  "name": "클라이밍월 공장",
+  "kakaoCategory": "공장",
+  "latitude": 37.52925160199342,
+  "longitude": 127.16836561187381,
+  "address": "경기 하남시 초광산단서로 4 선빌딩",
+  "regions": [
+   "경기",
+   "하남시",
+   "초이동"
+  ],
+  "phone": "02-511-4570",
+  "link": "http://www.climbingwall.kr/",
+  "hours": null,
+  "holidayHours": null,
+  "kakaoUpdated": "2026-05-07",
+  "status": "Y"
+ }
+]
